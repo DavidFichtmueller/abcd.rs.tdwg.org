@@ -1,2 +1,2 @@
 document_modified,version,version_modified,status,list_deprecated,list_localName,label,description,list_created,list_modified,vann_preferredNamespacePrefix,vann_preferredNamespaceUri,list
-,,,,,test/terms/,test term list,Test term list for new vocabulary,,,test,http://rs.tdwg.org/test/terms/,http://rs.tdwg.org/test/terms/
+,,,,,abcd2/terms/,ABCD (Access to Biological Collection Data) vocabulary terms,This list contains all of the terms used by the ABCD2 XML Schema,,,abcd2,http://rs.tdwg.org/abcd2/terms/,http://rs.tdwg.org/abcd2/terms/
